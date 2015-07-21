@@ -14,7 +14,7 @@ public class Main {
 		nowa_zmienna++;
 	}
 
-	
+	//komentarzZGitExtensions
 
 
 	
