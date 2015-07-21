@@ -14,7 +14,9 @@ public class Main {
 		nowa_zmienna++;
 	}
 
-	//komentarzZGitExtensions
+	//ostatnia zmina z github
+	//komentarzZGitExtensions ok
+	
 
 
 	
